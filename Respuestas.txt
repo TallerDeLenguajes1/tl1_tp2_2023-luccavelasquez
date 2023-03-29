@@ -1,0 +1,2 @@
+2f)
+No puedo ver el archivo tp2_1_2.c porque ese archivo fue creado en el branch Opcion_2
