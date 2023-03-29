@@ -1,2 +1,4 @@
 2f)
-No puedo ver el archivo tp2_1_2.c porque ese archivo fue creado en el branch Opcion_2
+-No puedo ver el archivo tp2_1_2.c porque ese archivo fue creado en el branch Opcion_2.
+-Al comprometer el archivo Respuestas.txt notamos que se ve como si se dividiria en dos ramas.
+-Al combinar ambos se nota que las ramas se unieron
